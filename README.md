@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yow04
 - 👀 I’m interested in Learning all Tech
-- 🌱 I’m currently learning ML
+- 🌱 I’m currently learning Mobile Develope
 - 💞️ I aint do collab rn
 - 📫 do not reach me
 - 😄 Pronouns: he, him
