@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER — nuansa sketchbook / diary, aksen biru -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F5EFE6,50:E4EEF7,100:CFE3F5&height=180&section=header&text=hi,%20i'm%20NAMA%20KAMU&fontSize=36&fontColor=3E6C9E&fontAlignY=45&desc=welcome%20to%20my%20little%20corner%20of%20the%20internet&descAlignY=65&descSize=15&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F5EFE6,50:E4EEF7,100:CFE3F5&height=180&section=header&text=hi,%20i'm &20Rajawali%20Shaktika%20Anugrah%20Prasetya&fontSize=36&fontColor=3E6C9E&fontAlignY=45&desc=welcome%20to%20my%20little%20corner%20of%20the%20internet&descAlignY=65&descSize=15&animation=fadeIn" width="100%"/>
 
 <!-- TYPING TEXT — font tulisan tangan, warna biru lembut -->
 <a href="https://git.io/typing-svg">
