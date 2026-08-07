@@ -1,96 +1,112 @@
 <div align="center">
 
-<!-- BANNER — nuansa sketchbook / diary, aksen biru -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F5EFE6,50:E4EEF7,100:CFE3F5&height=180&section=header&text=hi,%20i'm &20Rajawali%20Shaktika%20Anugrah%20Prasetya&fontSize=36&fontColor=3E6C9E&fontAlignY=45&desc=welcome%20to%20my%20little%20corner%20of%20the%20internet&descAlignY=65&descSize=15&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:1B263B,100:415A77&height=200&section=header&text=RAJAWALI&fontSize=55&fontColor=64DFDF&fontAlignY=38&animation=fadeIn&desc=welcome%20to%20my%20little%20SPACE&descAlignY=58&descColor=778DA9" width="100%"/>
 
-<!-- TYPING TEXT — font tulisan tangan, warna biru lembut -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=600&size=20&duration=3500&pause=1200&color=4A6FA5&center=true&vCenter=true&width=550&lines=selamat+datang...;semoga+harimu+baik+%3A);sit+back+and+look+around" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&weight=400&size=18&duration=3500&pause=1200&color=64DFDF&center=true&vCenter=true&width=550&lines=hello%2C+i'm+rajawali;informatics+student;web+%2B+mobile+developer;learning%3A+data+%C2%B7+cloud+%C2%B7+game+dev" alt="Typing SVG" />
 
 </div>
 
-<br>
-
-<!-- DIVIDER LEMBUT -->
 <p align="center">˚ · • . ✦ . • · ˚ · • . 🩵 . • · ˚</p>
-
-<br>
 
 ## 📖 · about me
 
-Hello my name is Rajawali Shaktika Anugrah Prasetya, I'm an Informatics student with 4 years of academic experience in IT and software development.
-
-I enjoy building software and exploring how different technologies can be combined to solve real-world problems.
-
-My current interests include:
-
-- Web Development
-- Application Development
-- Data & Data Processing
-- Artificial Intelligence
-
-<br>
+Hi, I'm **Rajawali Shaktika Anugrah Prasetya** — an Informatics student with 4 years of academic experience in IT Major. I'm interested in **Web & Mobile Development**, and also currently exploring **Data, Game Development, and Cloud**. Somewhere between building and breaking things, I'm always looking for a little more SPACE to grow.
 
 <p align="center">˚ · • . ✦ . • · ˚ · • . 🩵 . • · ˚</p>
-
-<br>
 
 ## 🧷 · tools & stack
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-CFE3F5?style=for-the-badge&logo=html5&logoColor=3E6C9E)
-![CSS3](https://img.shields.io/badge/CSS3-CFE3F5?style=for-the-badge&logo=css3&logoColor=3E6C9E)
-![JavaScript](https://img.shields.io/badge/JavaScript-CFE3F5?style=for-the-badge&logo=javascript&logoColor=3E6C9E)
-![React](https://img.shields.io/badge/React-CFE3F5?style=for-the-badge&logo=react&logoColor=3E6C9E)
-![Python](https://img.shields.io/badge/Python-CFE3F5?style=for-the-badge&logo=python&logoColor=3E6C9E)
-![Node.js](https://img.shields.io/badge/Node.js-CFE3F5?style=for-the-badge&logo=nodedotjs&logoColor=3E6C9E)
-![Git](https://img.shields.io/badge/Git-CFE3F5?style=for-the-badge&logo=git&logoColor=3E6C9E)
+**web & mobile**
+
+![HTML5](https://img.shields.io/badge/HTML5-0D1B2A?style=for-the-badge&logo=html5&logoColor=64DFDF&labelColor=0D1B2A)
+![CSS3](https://img.shields.io/badge/CSS3-0D1B2A?style=for-the-badge&logo=css3&logoColor=64DFDF&labelColor=0D1B2A)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1B2A?style=for-the-badge&logo=javascript&logoColor=64DFDF&labelColor=0D1B2A)
+![React](https://img.shields.io/badge/React-0D1B2A?style=for-the-badge&logo=react&logoColor=64DFDF&labelColor=0D1B2A)
+![Flutter](https://img.shields.io/badge/Flutter-0D1B2A?style=for-the-badge&logo=flutter&logoColor=64DFDF&labelColor=0D1B2A)
+![Kotlin](https://img.shields.io/badge/Kotlin-0D1B2A?style=for-the-badge&logo=kotlin&logoColor=64DFDF&labelColor=0D1B2A)
+
+**backend & tools**
+
+![Node.js](https://img.shields.io/badge/Node.js-0D1B2A?style=for-the-badge&logo=nodedotjs&logoColor=64DFDF&labelColor=0D1B2A)
+![Python](https://img.shields.io/badge/Python-0D1B2A?style=for-the-badge&logo=python&logoColor=64DFDF&labelColor=0D1B2A)
+![Git](https://img.shields.io/badge/Git-0D1B2A?style=for-the-badge&logo=git&logoColor=64DFDF&labelColor=0D1B2A)
+
+**currently learning**
+
+![DataScience](https://img.shields.io/badge/Data-1B263B?style=for-the-badge&logo=pandas&logoColor=778DA9&labelColor=0D1B2A)
+![GameDev](https://img.shields.io/badge/Game_Dev-1B263B?style=for-the-badge&logo=unity&logoColor=778DA9&labelColor=0D1B2A)
+![Cloud](https://img.shields.io/badge/Cloud-1B263B?style=for-the-badge&logo=googlecloud&logoColor=778DA9&labelColor=0D1B2A)
 
 </div>
 
-<br>
-
 <p align="center">˚ · • . ✦ . • · ˚ · • . 🩵 . • · ˚</p>
 
-<br>
+## 🎮 · featured projects
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+```
+╔══════════════════════════════════╗
+║  ☆ KNOW YOUR TEA                 ║
+╚══════════════════════════════════╝
+```
+A web app for learning about tea, built with **React + Vite**.
+🔗 [Live Demo](https://tea-bug.vercel.app) · [Repo](https://github.com/Yow04/know-your-tea)
+
+</td>
+<td width="50%" valign="top">
+
+```
+╔══════════════════════════════════╗
+║  ☆ IFISHY                        ║
+╚══════════════════════════════════╝
+```
+A mobile app that detects and classifies fish diseases using **Machine Learning**. Built as a capstone project — role: Frontend/Mobile Developer.
+🔗 [Repo](https://github.com/SandyAryadika/Ifishy-C242-PS164)
+
+</td>
+</tr>
+</table>
+
+<p align="center">˚ · • . ✦ . • · ˚ · • . 🩵 . • · ˚</p>
 
 ## 🏆 · trophy room
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yow04&theme=nord&column=4&margin-w=8&margin-h=8&no-bg=true&no-frame=true" alt="trophy"/>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Yow04&theme=tokyonight&column=4&margin-w=8&margin-h=8&no-bg=true&no-frame=true)
+
 </div>
 
-<br>
+<p align="center">˚ · • . ✦ . • · ˚ · • . 🩵 . • · ˚</p>
 
 ## 📊 · github stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yow04&show_icons=true&hide_border=true&bg_color=FBF7F0&title_color=3E6C9E&icon_color=7EA8CE&text_color=5C5C5C" width="47%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yow04&layout=compact&hide_border=true&bg_color=FBF7F0&title_color=3E6C9E&text_color=5C5C5C" width="40%"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Yow04&show_icons=true&hide_border=true&bg_color=0D1B2A&title_color=64DFDF&icon_color=778DA9&text_color=E0E1DD&border_color=415A77" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yow04&layout=compact&hide_border=true&bg_color=0D1B2A&title_color=64DFDF&text_color=E0E1DD&border_color=415A77" width="35%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yow04&hide_border=true&background=0D1B2A&stroke=415A77&ring=64DFDF&fire=64DFDF&currStreakLabel=64DFDF&sideLabels=778DA9&dates=778DA9&currStreakNum=E0E1DD&sideNums=E0E1DD" width="60%" />
+
 </div>
 
-<br>
-
 <p align="center">˚ · • . ✦ . • · ˚ · • . 🩵 . • · ˚</p>
-
-<br>
 
 ## 💌 · say hi
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-CFE3F5?style=for-the-badge&logo=instagram&logoColor=3E6C9E)](https://instagram.com/rajawaliprstya_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CFE3F5?style=for-the-badge&logo=linkedin&logoColor=3E6C9E)](https://linkedin.com/in/Yow04)
-[![X](https://img.shields.io/badge/Twitter-CFE3F5?style=for-the-badge&logo=twitter&logoColor=3E6C9E)](https://x.com/rjwl_)
+[![Instagram](https://img.shields.io/badge/Instagram-0D1B2A?style=for-the-badge&logo=instagram&logoColor=64DFDF&labelColor=0D1B2A)](https://www.instagram.com/rajawaliprstya_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1B2A?style=for-the-badge&logo=linkedin&logoColor=64DFDF&labelColor=0D1B2A)](https://www.linkedin.com/in/rajawali-shaktika-anugrah-prasetya/)
+[![Email](https://img.shields.io/badge/Email-0D1B2A?style=for-the-badge&logo=gmail&logoColor=64DFDF&labelColor=0D1B2A)](mailto:rajawali.prasetya4@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=Yow04&label=visitors&color=1B263B&style=flat-square&labelColor=0D1B2A" alt="profile views" />
 
 </div>
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:CFE3F5,50:E4EEF7,100:F5EFE6&height=100&section=footer&text=see%20you%20around%20%3A)&fontSize=14&fontColor=3E6C9E&fontAlignY=60"/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yow04&label=visitors&color=cfe3f5&style=flat-square&labelColor=3E6C9E" alt="profile views"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:415A77,50:1B263B,100:0D1B2A&height=120&section=footer" width="100%"/>
