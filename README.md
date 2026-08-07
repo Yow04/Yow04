@@ -8,105 +8,24 @@
 
 <p align="center">˚ · • . ✦ . • · ˚ · • . 🩵 . • · ˚</p>
 
-## 📖 · about me
+# 💫 About Me:
+Hi, I'm Rajawali Shaktika Anugrah Prasetya — an Informatics student with 4 years of academic experience in IT Major. I'm interested in Web & Mobile Development, and also currently exploring Data, Game Development, and Cloud. Somewhere between building and breaking things, I'm always looking for a little more SPACE to grow.
 
-Hi, I'm **Rajawali Shaktika Anugrah Prasetya** — an Informatics student with 4 years of academic experience in IT Major. I'm interested in **Web & Mobile Development**, and also currently exploring **Data, Game Development, and Cloud**. Somewhere between building and breaking things, I'm always looking for a little more SPACE to grow.
 
-<p align="center">˚ · • . ✦ . • · ˚ · • . 🩵 . • · ˚</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rajawaliprstya_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajawali-shaktika-anugrah-prasetya) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@kolokefuyunghai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajawali.prasetya4@gmail.com) 
 
-## 🧷 · tools & stack
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=flat-square&logo=Aseprite&logoColor=#7D929E) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Yow04&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Yow04&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Yow04&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Yow04&theme=blue_navy&no-frame=false&no-bg=false&margin-w=4)
 
-**web & mobile**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Yow04&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-![HTML5](https://img.shields.io/badge/HTML5-0D1B2A?style=for-the-badge&logo=html5&logoColor=64DFDF&labelColor=0D1B2A)
-![CSS3](https://img.shields.io/badge/CSS3-0D1B2A?style=for-the-badge&logo=css3&logoColor=64DFDF&labelColor=0D1B2A)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1B2A?style=for-the-badge&logo=javascript&logoColor=64DFDF&labelColor=0D1B2A)
-![React](https://img.shields.io/badge/React-0D1B2A?style=for-the-badge&logo=react&logoColor=64DFDF&labelColor=0D1B2A)
-![Flutter](https://img.shields.io/badge/Flutter-0D1B2A?style=for-the-badge&logo=flutter&logoColor=64DFDF&labelColor=0D1B2A)
-![Kotlin](https://img.shields.io/badge/Kotlin-0D1B2A?style=for-the-badge&logo=kotlin&logoColor=64DFDF&labelColor=0D1B2A)
-
-**backend & tools**
-
-![Node.js](https://img.shields.io/badge/Node.js-0D1B2A?style=for-the-badge&logo=nodedotjs&logoColor=64DFDF&labelColor=0D1B2A)
-![Python](https://img.shields.io/badge/Python-0D1B2A?style=for-the-badge&logo=python&logoColor=64DFDF&labelColor=0D1B2A)
-![Git](https://img.shields.io/badge/Git-0D1B2A?style=for-the-badge&logo=git&logoColor=64DFDF&labelColor=0D1B2A)
-
-**currently learning**
-
-![DataScience](https://img.shields.io/badge/Data-1B263B?style=for-the-badge&logo=pandas&logoColor=778DA9&labelColor=0D1B2A)
-![GameDev](https://img.shields.io/badge/Game_Dev-1B263B?style=for-the-badge&logo=unity&logoColor=778DA9&labelColor=0D1B2A)
-![Cloud](https://img.shields.io/badge/Cloud-1B263B?style=for-the-badge&logo=googlecloud&logoColor=778DA9&labelColor=0D1B2A)
-
-</div>
-
-<p align="center">˚ · • . ✦ . • · ˚ · • . 🩵 . • · ˚</p>
-
-## 🎮 · featured projects
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-```
-╔══════════════════════════════════╗
-║  ☆ KNOW YOUR TEA                 ║
-╚══════════════════════════════════╝
-```
-A web app for learning about tea, built with **React + Vite**.
-🔗 [Live Demo](https://tea-bug.vercel.app) · [Repo](https://github.com/Yow04/know-your-tea)
-
-</td>
-<td width="50%" valign="top">
-
-```
-╔══════════════════════════════════╗
-║  ☆ IFISHY                        ║
-╚══════════════════════════════════╝
-```
-A mobile app that detects and classifies fish diseases using **Machine Learning**. Built as a capstone project — role: Frontend/Mobile Developer.
-🔗 [Repo](https://github.com/SandyAryadika/Ifishy-C242-PS164)
-
-</td>
-</tr>
-</table>
-
-<p align="center">˚ · • . ✦ . • · ˚ · • . 🩵 . • · ˚</p>
-
-## 🏆 · trophy room
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Yow04&theme=tokyonight&column=4&margin-w=8&margin-h=8&no-bg=true&no-frame=true)
-
-</div>
-
-<p align="center">˚ · • . ✦ . • · ˚ · • . 🩵 . • · ˚</p>
-
-## 📊 · github stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Yow04&show_icons=true&hide_border=true&bg_color=0D1B2A&title_color=64DFDF&icon_color=778DA9&text_color=E0E1DD&border_color=415A77" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yow04&layout=compact&hide_border=true&bg_color=0D1B2A&title_color=64DFDF&text_color=E0E1DD&border_color=415A77" width="35%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yow04&hide_border=true&background=0D1B2A&stroke=415A77&ring=64DFDF&fire=64DFDF&currStreakLabel=64DFDF&sideLabels=778DA9&dates=778DA9&currStreakNum=E0E1DD&sideNums=E0E1DD" width="60%" />
-
-</div>
-
-<p align="center">˚ · • . ✦ . • · ˚ · • . 🩵 . • · ˚</p>
-
-## 💌 · say hi
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-0D1B2A?style=for-the-badge&logo=instagram&logoColor=64DFDF&labelColor=0D1B2A)](https://www.instagram.com/rajawaliprstya_/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1B2A?style=for-the-badge&logo=linkedin&logoColor=64DFDF&labelColor=0D1B2A)](https://www.linkedin.com/in/rajawali-shaktika-anugrah-prasetya/)
-[![Email](https://img.shields.io/badge/Email-0D1B2A?style=for-the-badge&logo=gmail&logoColor=64DFDF&labelColor=0D1B2A)](mailto:rajawali.prasetya4@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=Yow04&label=visitors&color=1B263B&style=flat-square&labelColor=0D1B2A" alt="profile views" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:415A77,50:1B263B,100:0D1B2A&height=120&section=footer" width="100%"/>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
