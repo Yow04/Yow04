@@ -54,12 +54,12 @@
 ## `>` GITHUB STATS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1B2A&title_color=5FA8D3&icon_color=5FA8D3&text_color=C9D6E5" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1B2A&title_color=5FA8D3&text_color=C9D6E5" width="42%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yow04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1B2A&title_color=5FA8D3&icon_color=5FA8D3&text_color=C9D6E5" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yow04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1B2A&title_color=5FA8D3&text_color=C9D6E5" width="42%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_KAMU&theme=tokyonight&hide_border=true&background=0D1B2A&stroke=5FA8D3&ring=5FA8D3&fire=5FA8D3&currStreakLabel=5FA8D3" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yow04&theme=tokyonight&hide_border=true&background=0D1B2A&stroke=5FA8D3&ring=5FA8D3&fire=5FA8D3&currStreakLabel=5FA8D3" width="60%"/>
 </div>
 
 <br>
